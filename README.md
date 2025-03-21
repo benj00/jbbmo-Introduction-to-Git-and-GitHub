@@ -1,7 +1,7 @@
 # Introduction to Git and GitHub
 
 ## Simple Interest Calculator
-# fixed a typo with the date from 2022 to 2023
+# reverted the date back from 2023 to 2022
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 ```
@@ -13,4 +13,4 @@ Output
    simple interest = p*t*r
 ```
 
-_© 2023 XYZ, Inc._
+_© 2022 XYZ, Inc._
